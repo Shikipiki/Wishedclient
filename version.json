@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.3",
   "downloadUrl": "https://www.mediafire.com/file/6ykxuanzuhq884t/WishedClient.zip/file",
   "changelog": "Добавил ротацию в KillAura - HvH.Улучшил ротации SlothAC и Cake.Добавил AutoMessage (можно писать свой текст).Добавил больше настроек в ElytraTarget.Элитра таргет был переписан."
 }
